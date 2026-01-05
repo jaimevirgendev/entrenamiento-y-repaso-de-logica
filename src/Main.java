@@ -1,8 +1,10 @@
 import calentamiento.EsPar;
+import calentamiento.Factorial;
 
 public class Main {
     public static void main(String[] args) {
-        esPar();
+        //esPar();
+        factorial();
     }
 
     private static void esPar(){
@@ -12,5 +14,10 @@ public class Main {
         } else {
             System.out.println("Es par");
         }
+    }
+
+    private static void factorial(){
+        //int factorial = Factorial.factorialV2(5);
+        //System.out.println("El factorial es: " + factorial);
     }
 }
