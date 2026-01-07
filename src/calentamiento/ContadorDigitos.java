@@ -3,7 +3,7 @@ package calentamiento;
 import java.util.Scanner;
 
 public class ContadorDigitos {
-
+    static Scanner read = new Scanner(System.in);
     //Este algoritmo es ineficiente
     private static void contador(){
         int numero;
