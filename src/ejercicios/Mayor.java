@@ -1,4 +1,4 @@
-package calentamiento;
+package ejercicios;
 
 import java.util.Random;
 import java.util.Scanner;

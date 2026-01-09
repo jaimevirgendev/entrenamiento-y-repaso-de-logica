@@ -1,4 +1,4 @@
-package calentamiento;
+package ejercicios;
 
 /***
  * Ejercicio 3:

@@ -1,5 +1,4 @@
-package calentamiento;
-import java.util.Scanner;
+package ejercicios;
 
 /***
  * Ejercicio 8:
